@@ -1,0 +1,18 @@
+{
+  "name": "flutter-pomodoro",
+  "scripts": {
+    "predeploy": "flutter build web --base-href /flutter-pomodoro/ --release",
+    "deploy": "gh-pages -d build/web"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royalahn/flutter-pomodoro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/royalahn/flutter-pomodoro/issues"
+  },
+  "homepage": "https://royalahn.github.com/flutter-pomodoro",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
