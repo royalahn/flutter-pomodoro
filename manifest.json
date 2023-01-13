@@ -1,11 +1,11 @@
 {
-    "name": "flutter_pomodoro",
-    "short_name": "flutter_pomodoro",
+    "name": "Flutter Pomodoro",
+    "short_name": "Pomodoro",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#E7626C",
+    "theme_color": "#E7626C",
+    "description": "Pomodoro with Flutter",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
